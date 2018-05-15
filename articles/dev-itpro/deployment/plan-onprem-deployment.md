@@ -84,7 +84,7 @@ The production environment is the live deployment that your users and customers 
 At a minimum, an on-premises production environment requires:
 - 3 machines running Environment Orchestrator
 - 3 machines running Application Object Servers (AOS)
-- 1 machine running Management Reporter (MR)
+- 2 machine running Management Reporter (MR)
 - 1 machine running SQL Server Reporting Services (SSRS)
 - 2 or more machines running SQL Server
 - 2 or more machines running Active Directory
